@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72153583349",
+    "firebase_url": "https://niver-remember.firebaseio.com",
+    "project_id": "niver-remember",
+    "storage_bucket": "niver-remember.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72153583349:android:2883bb1ae52454dd497fbc",
+        "android_client_info": {
+          "package_name": "com.vilaca.niverremember"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72153583349-io42muqrdumk3pkodb2hq9iieig2rrjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vilaca.niverremember",
+            "certificate_hash": "ecef27e5818b1e629c982256bbd6426bea184e67"
+          }
+        },
+        {
+          "client_id": "72153583349-lv4ttf9g8jca4se9df3ib4gqrgkrp0jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyY1hkVcLAvlpPH1-cgiha78fC1LI7sws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72153583349-lv4ttf9g8jca4se9df3ib4gqrgkrp0jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

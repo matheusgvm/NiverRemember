@@ -1,0 +1,2 @@
+rootProject.name='Niver Remember'
+include ':app'
